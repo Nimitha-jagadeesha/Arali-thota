@@ -9,10 +9,11 @@ export default function Introduction() {
                     <h1 className="text-center heading">ಅರಳಿ ತೋಟ</h1>
                     <h5 className="tagline"> - A place of peace</h5>
                     <br />
-                    <li>👀 I’m interested in solving complex problems, designing complex systems, learning different technologies and teckstacks.</li>
-                    <li>🌱 I’m currently learning best coding practices and System design :)</li>
-                    <li>✨ I am continually inspired by the limitless potential of software development to bring ideas to life.</li>
-                    <li>☕ I enjoy coding while sipping on a cup of tea.</li>
+                    <p> Nestled amidst the serene landscape, our farm is a haven of tranquility and natural beauty, where the majestic arali mara (Banyan tree) reigns supreme. The sprawling branches of this sacred tree provide not only shade but also a symbol of resilience, growth, and longevity. Revered in our culture, the arali mara stands as the heart of the farm, its roots deeply intertwined with the soil that nurtures an abundance of flora and fauna.
+  <br />
+The farm is a blend of tradition and sustainability, where we cultivate crops while preserving the natural ecosystem. Whether you're seeking solace in nature or exploring agricultural practices, the presence of the arali mara offers a unique connection to the earth and its ancient wisdom.
+  <br />
+Come, experience the serenity of our farm, where the arali mara serves as a living reminder of nature's strength and grace.</p>
                     <br />
                 </ul>
             </div>
