@@ -7,7 +7,7 @@ export default function Introduction() {
                     <img src={process.env.PUBLIC_URL + "favicon.png"} height={300} alt="Dream->code->Achieve" />
                 </div>
                 <ul className="col-md-6 col-10 offset-1" data-aos="fade-up" data-aos-duration="2000">
-                    <h1 className="text-center heading">Nimitha J  <span class="wave">🖐🏻</span> </h1>
+                    <h1 className="text-center heading">ಅರಳಿ ತೋಟ<span class="wave">🖐🏻</span> </h1>
                     <h5 className="tagline"> - Passinate Software Developer</h5>
                     <br />
                     <li>👀 I’m interested in solving complex problems, designing complex systems, learning different technologies and teckstacks.</li>
