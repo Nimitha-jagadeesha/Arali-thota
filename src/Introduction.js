@@ -3,7 +3,7 @@ export default function Introduction() {
         <div className="App" id="Intro">
             <div className="row">
                 <div className='col-md-3 col-9 offset-2 offset-md-1' data-aos="zoom-in" data-aos-duration="2000">
-                    <img src={process.env.PUBLIC_URL + "arali.jpg"} height={500} width={300} alt="Dream->code->Achieve" />
+                    <img src={process.env.PUBLIC_URL + "arali.jpg"} height={500} width={450} alt="Dream->code->Achieve" />
                 </div>
                 <ul className="col-md-6 col-10 offset-1" data-aos="fade-up" data-aos-duration="2000">
                     <h1 className="text-center heading">ಅರಳಿ ತೋಟ</h1>
